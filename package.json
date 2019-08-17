@@ -1,7 +1,7 @@
 {
   "name": "rand-poke",
   "version": "1.0.0",
-  "description": "A site to randomly generate Pokemon using IKEA furniture names and the Markov Chain",
+  "description": "A site to randomly generate Pokemon using IKEA furniture names",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
